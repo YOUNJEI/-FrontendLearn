@@ -1,0 +1,23 @@
+p{
+    color:red;
+}
+
+#title{
+    color:blue;
+}
+
+.box#title{
+    color:green;
+}
+
+section div{
+    color:black;
+}
+
+label + input{
+    color:purple;
+}
+
+a[href="https://www.naver.com"] span{
+    color:aliceblue;
+}
